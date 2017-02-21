@@ -1,0 +1,23 @@
+{
+  "name": "angular-router-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhash983/AngularRouterDemo.git"
+  },
+  "author": "Subhash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhash983/AngularRouterDemo/issues"
+  },
+  "homepage": "https://github.com/subhash983/AngularRouterDemo#readme",
+  "dependencies": {
+    "angular": "^1.6.2",
+    "angular-route": "^1.6.2"
+  }
+}
